@@ -1,0 +1,15 @@
+Hello!
+
+
+This is a website for a grocery store.
+
+
+The grocery store website is very convenient for customers who are busy with their schedules. 
+This website is very efficient, less time-consuming & quickly accessible with the usage of
+data for customers or users to buy online essentials.
+
+The main objective of the project on the Grocery Management System is to provide customers 
+the complete opportunity to buy all the food essentials they need from one place (Online) without traveling.
+This service acts as a standalone application and embedded commerce service that streamlines the buyer’s experience.
+Further, the application would be supportive to eliminate human errors.
+

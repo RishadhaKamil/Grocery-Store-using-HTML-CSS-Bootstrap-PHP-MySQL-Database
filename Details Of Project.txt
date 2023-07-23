@@ -1,0 +1,13 @@
+link= http://fastnfresh.atwebpages.com/login.php
+/* ---Admin Login Details --*/
+
+Email- Admin1@FastNFresh.com
+Password- 123
+
+..................................
+
+/* ---User Credentials --*/
+
+ You can register yourself
+
+..................................
